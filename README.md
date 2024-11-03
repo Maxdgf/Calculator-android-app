@@ -1,5 +1,5 @@
 # Calculator-android-app
-Простое андроид приложение калькулятор на Java.
+A simple android calculator application on Java.
 
-![](screen.png)
+![](AppScreenshots/calcScreenshot.png)
 
